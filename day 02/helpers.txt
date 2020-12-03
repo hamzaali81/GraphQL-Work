@@ -1,0 +1,2 @@
+axios.delete(`http:localhost:3000/users/${userId}`)
+axios.patch(`http:localhost:3000/users/${userId}`,{ updateUSer })
